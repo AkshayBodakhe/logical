@@ -1,0 +1,16 @@
+ x Array 
+
+- 1. find minimun in array 
+- 2. find maximun in array
+- 3. second maximun / minimun
+- 4. reverse array
+- 5. sort array
+- 6. find duplicates
+- 7. remove duplicates - from sorted / unsorted
+- 8. insert element at index
+- 9. delete element at index
+- 10. delete specific element
+- 11. find duplicates
+- 12. find missing
+
+
